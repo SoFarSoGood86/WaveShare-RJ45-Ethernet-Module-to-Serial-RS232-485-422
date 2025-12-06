@@ -1,3 +1,8 @@
+
+![61g-h9+FAOL _AC_SL1500_](https://github.com/user-attachments/assets/595c9ee9-8ec1-410d-ba6d-2dc9c3e38d6d)
+
+
+
 # Guide d’installation et de tests pour Waveshare Serial POE + VEICHI AC70
 
 Ce guide décrit comment installer, configurer et tester l’intégration Home Assistant pour contrôler un variateur VEICHI AC70 via un boîtier Waveshare RS232/485/422 TO POE ETH (B).
